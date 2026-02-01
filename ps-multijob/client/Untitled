@@ -1,0 +1,2 @@
+[  script:ps-multijob] [ps-multijob] The job 'fib' is missing from Shared.Jobs. Remove it from the multijob SQL or add it back to jobs.lua.
+07:56:02 PM [  script:ps-multijob] [ps-multijob] The job 'fib' is missing from Shared.Jobs. Remove it from the multijob SQL or add it back to jobs.lua.
