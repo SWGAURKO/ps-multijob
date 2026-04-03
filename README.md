@@ -183,8 +183,7 @@ Removes a job from a player.
 
 # 👨‍💻 Credits
 
-* xFutte
-* Silent
-* Jay
-* Snipe
-* Project Sloth
+* [xFutte](https://github.com/xFutte)
+* [Silent](https://github.com/S1lentcodes)
+* [Jay](https://github.com/jay-fivem)
+* [Snipe](https://github.com/pushkart2)
