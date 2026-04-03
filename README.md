@@ -169,7 +169,6 @@ Removes a job from the player.
 
 ---
 
-# 🛠 Admin Commands
 
 
 
