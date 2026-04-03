@@ -171,11 +171,8 @@ Removes a job from the player.
 
 # 🛠 Admin Commands
 
-```
-/removejob
-```
 
-Removes a job from a player.
+
 
 ---
 
