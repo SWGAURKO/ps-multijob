@@ -179,19 +179,7 @@ Removes a job from a player.
 
 ---
 
-# ⚙️ Config
 
-Inside **config.lua** you can configure:
-
-* Maximum jobs
-* Ignored jobs
-* Whitelisted jobs
-* Job descriptions
-* Job icons
-* UI position
-* Keybind
-
----
 
 # 👨‍💻 Credits
 
